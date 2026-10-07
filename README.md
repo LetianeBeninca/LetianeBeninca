@@ -7,8 +7,8 @@ PhD in building technology. I turn energy data into evidence, and evidence into 
 
 ## 🧪 The Lab
 
-- ⚡ **Energy & climate data**: EnergyPlus, Python, optimisation and explainable ML (SHAP). Entropy always wins, unless you insulate.
-- 🔬 **Rigour in evaluation**: rubrics for judging evidence, proposals and model outputs. European Commission expert evaluator (Erasmus+). Peer review, minus the whiteboard shouting.
+- ⚡ **Energy & climate data**: EnergyPlus, Python, optimisation and explainable ML (SHAP).
+- 🔬 **Rigour in evaluation**: rubrics for judging evidence, proposals and model outputs. European Commission expert evaluator (Erasmus+). Academic peer reviews.
 - 🤝 **Research programmes Europe ↔ Latin America**: consortia, KPIs and data management plans that survive contact with reality.
 
 ## 🛠️ On the bench
