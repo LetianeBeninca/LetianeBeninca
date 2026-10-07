@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Letiane 👩‍🔬🏢
 
-<!--
-**LetianeBeninca/LetianeBeninca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"A building is both efficient and inefficient until you measure it."*
+> My own version of Schrödinger's cat 🐈‍⬛📦
 
-Here are some ideas to get you started:
+PhD in building technology. I turn energy data into evidence, and evidence into funded, well-run research. Based in Barcelona 🌍, working across Europe and Latin America. Not a theoretical physicist, but I have strong opinions about thermodynamics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 The Lab
+
+- ⚡ **Energy & climate data**: EnergyPlus, Python, optimisation and explainable ML (SHAP). Entropy always wins, unless you insulate.
+- 🔬 **Rigour in evaluation**: rubrics for judging evidence, proposals and model outputs. European Commission expert evaluator (Erasmus+). Peer review, minus the whiteboard shouting.
+- 🤝 **Research programmes Europe ↔ Latin America**: consortia, KPIs and data management plans that survive contact with reality.
+
+## 🛠️ On the bench
+
+- 🎓 [`ITDataAnalytics`](https://github.com/LetianeBeninca/ITDataAnalytics): Data Analytics Bootcamp (IT Academy, Barcelona Activa): Python, MySQL, Power BI.
+<!-- 🏛️ Thesis code and data: add the link here after step 3 -->
+
+---
+
+Fuelled by 🧉 + 🐍 + curiosity.
+*Not affiliated with Caltech, or with anyone who has ever knocked three times.*
