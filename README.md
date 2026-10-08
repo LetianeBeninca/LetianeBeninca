@@ -10,9 +10,10 @@ PhD in building technology. I turn energy data into evidence, and evidence into 
 * 🔬 **Rigour in evaluation:** rubrics for judging evidence, proposals and model outputs. European Commission expert evaluator (Erasmus+) and academic peer reviewer.
 * 🤝 **Research programmes Europe ↔ Latin America:** consortia, KPIs and data management plans that survive contact with reality.
 
-## 🛠️ On the bench
+### 🛠️ On the bench
 
 * 🏢 [`phd-thesis-building-optimization`](https://github.com/LetianeBeninca/phd-thesis-building-optimization): multi-objective optimisation (NSGA-II) of social multifamily housing with EnergyPlus. Code, models and results, citable with a [DOI](https://doi.org/10.5281/zenodo.23223419).
+* 🌡️ [`building-energy-ml-shap`](https://github.com/LetianeBeninca/building-energy-ml-shap): explainable machine learning (Random Forest + SHAP) on Pareto-front building simulations, showing which design parameters drive cooling and heating demand. Notebook, data and slides.
 * 📊 [`it-academy-data-analytics`](https://github.com/LetianeBeninca/it-academy-data-analytics): SQL, Power BI, Python and MongoDB exercises from the Data Analytics Bootcamp (IT Academy, Barcelona Activa).
 * 🏖️ [`stayspain-tourism-analytics`](https://github.com/LetianeBeninca/stayspain-tourism-analytics): team business simulation on tourism demand and revenue strategy, with Python, SQL, Power BI and INE data.
 
