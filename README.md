@@ -16,5 +16,6 @@ PhD in building technology. I turn energy data into evidence, and evidence into 
 * 🌡️ [`building-energy-ml-shap`](https://github.com/LetianeBeninca/building-energy-ml-shap): explainable machine learning (Random Forest + SHAP) on Pareto-front building simulations, showing which design parameters drive cooling and heating demand. Notebook, data and slides.
 * 📊 [`it-academy-data-analytics`](https://github.com/LetianeBeninca/it-academy-data-analytics): SQL, Power BI, Python and MongoDB exercises from the Data Analytics Bootcamp (IT Academy, Barcelona Activa).
 * 🏖️ [`stayspain-tourism-analytics`](https://github.com/LetianeBeninca/stayspain-tourism-analytics): team business simulation on tourism demand and revenue strategy, with Python, SQL, Power BI and INE data.
+* 🏠 [`sustain-guide`](https://github.com/LetianeBeninca/sustain-guide): a free home comfort and energy check-up for non-experts. Real climate data by city, estimated appliance consumption and plain-language passive design advice written by AI, in Portuguese, Spanish and English. [Live app](https://sustain-guide.vercel.app).
 
 Fuelled by 🧉 + 🐍 + curiosity. Not affiliated with Caltech, or with anyone who has ever knocked three times.
